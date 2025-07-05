@@ -148,15 +148,15 @@
 
 	[mod_compat.enabled_builtin_plugins]
 		#
-		# Enables the plugin for Blue Skies.
+		# Enables the plugin for Quark.
 		# Default: true
-		blue_skies = true
+		quark = true
 		#
 		# Enables the plugin for Create.
 		# Default: true
 		create = true
 		#
-		# Enables the plugin for Quark.
+		# Enables the plugin for Blue Skies.
 		# Default: true
-		quark = true
+		blue_skies = true
 
